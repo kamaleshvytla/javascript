@@ -1,0 +1,22 @@
+{"profile":[{
+    "img":"images.png",
+    "name":"kamalesh",
+    "pin":8037039,
+    "college":"giet",
+    "Branch":"cse"
+  },
+  {
+    "img":"images.png",
+    "name":"mukesh",
+    "pin":8037037,
+    "college":"giet",
+    "branch":"cse"   
+  },
+{
+    "img":"redmi.png",
+    "name":"sai",
+    "pin":8037038,
+    "college":"giet",
+    "branch":"cse"  
+}]
+}
